@@ -1,0 +1,6 @@
+﻿  VigenereForwardIterator.cpp
+  iVigenereStream.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Dell\Documents\COS30008\Midterm\Midterm2023\Midterm2023\VigenereForwardIterator.cpp(76): warning C4715: 'VigenereForwardIterator::begin': not all control paths return a value
+  Midterm2023.vcxproj -> C:\Users\Dell\Documents\COS30008\Midterm\Midterm2023\x64\Debug\Midterm2023.exe
